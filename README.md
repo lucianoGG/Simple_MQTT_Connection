@@ -2,10 +2,10 @@
 
 <p align="center">simple mqtt connection to arduino, using Ethernet libraries for w5100 or similar, UIPEthernet for Enc28j60 or similar and PubSubClient for MQTT connection<p>
 
-## Links
-- [library](https://www.arduino.cc/en/Reference/Ethernet "Arduino Ethernet")
-- [library](https://www.arduino.cc/reference/en/libraries/uipethernet/ "Arduino UIPEthernet")
-- [library](https://www.arduino.cc/reference/en/libraries/pubsubclient/ "Arduino PubSubClient")
+## Links libraries
+- [Arduino Ethernet](https://www.arduino.cc/en/Reference/Ethernet "Arduino Ethernet")
+- [Arduino UIPEthernet](https://www.arduino.cc/reference/en/libraries/uipethernet/ "Arduino UIPEthernet")
+- [Arduino PubSubClient](https://www.arduino.cc/reference/en/libraries/pubsubclient/ "Arduino PubSubClient")
 
 ## Built With
 
